@@ -9,4 +9,3 @@ numpy
 pandas
 plotly
 requests
-openpyxl
