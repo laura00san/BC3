@@ -8,7 +8,6 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objs as go
 import plotly.express as px
-import openpyxl
 
 df = pd.read_csv('https://raw.githubusercontent.com/joaopfonseca/business-cases-21-22/main/BC3_recommendation_system/retail.csv')
 df_2 = pd.read_excel('https://raw.githubusercontent.com/laura00san/BC3/main/df_for_app.xlsx')
